@@ -1,0 +1,1 @@
+# Towards-Active-Structural-Control-for-Electronic-Assemblies-in-High-rate-Dynamic-Environments
