@@ -1,0 +1,25 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,7.0.7*%
+%TF.CreationDate,2024-06-03T14:17:06-05:00*%
+%TF.ProjectId,Accel and Strain Gage board,41636365-6c20-4616-9e64-205374726169,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Paste,Top*%
+%TF.FilePolarity,Positive*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 7.0.7) date 2024-06-03 14:17:06*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%ADD10R,2.159000X0.762000*%
+%ADD11R,1.651000X0.762000*%
+G04 APERTURE END LIST*
+D10*
+%TO.C,72*%
+X124714000Y-120141990D03*
+D11*
+X124460000Y-121411990D03*
+X129413000Y-121411990D03*
+X129413000Y-120141990D03*
+%TD*%
+M02*
