@@ -1,0 +1,8 @@
+11:49, Monday, July 15, 2024
+Study name:Frequency 4
+Mode No.	Frequency(Rad/sec)	Frequency(Hertz)	Period(Seconds)
+1		      23131		     3681.5		  0.00027163
+2		      23135		       3682		  0.00027159
+3		      24562		     3909.2		  0.00025581
+4		      35634		     5671.4		  0.00017632
+5		      64816		      10316		  9.6938e-05
