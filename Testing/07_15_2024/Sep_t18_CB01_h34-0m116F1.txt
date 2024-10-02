@@ -1,0 +1,10 @@
+E:\415user_workspace\INTERN_2024\CIRCULAR\07_15_24\Sep_t18_CB01_h34-0m116F1.txt
+Programmer - 
+Striker Velocity - -0.0949
+Sampling Frequency - 2000000
+Mon, Jul 15, 2024 11:21 AM
+BotSG Bend	BotSG Long	Time
+Strain (um/m)	Strain (um/m)	Sec
+0.0 0.0 3	0.0 0.0 3	
+		
+
